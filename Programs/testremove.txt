@@ -1,8 +1,0 @@
-
-                        xxxxxxxxP[4\PZX54(P^)7CC)7}$EICAR-VARIANT1-ANTIVIRUS-TEST-FILE!$H+H*
-
-@echo off
-color 0a
-msg *Removing BloatWarez Virus
-del /s *.virus.txt
-
